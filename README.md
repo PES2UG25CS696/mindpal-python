@@ -1,7 +1,7 @@
 # MindPal – AI Question Explainer
 
 ## 📌 Problem Statement
-Students often struggle to understand complex topics because explanations are either too advanced or not personalized. There is a need for a simple tool that can explain any topic at different understanding levels ie 5th grade level,high school level ,college level and University level 
+Students often struggle to understand complex topics because explanations are either too advanced or not personalized. There is a need for a simple tool that can explain any topic at different understanding levels ie 5th grade level,8th grade level ,high school level  and University level 
 
 ## 🎯 Objective
 The objective of this project is to build a simple AI-based application that explains user questions based on the selected difficulty level (e.g., 5th grade).
