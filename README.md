@@ -1,7 +1,7 @@
 # MindPal – AI Question Explainer
 
 ## 📌 Problem Statement
-Students often struggle to understand complex topics because explanations are either too advanced or not personalized. There is a need for a simple tool that can explain any topic at different understanding levels.
+Students often struggle to understand complex topics because explanations are either too advanced or not personalized. There is a need for a simple tool that can explain any topic at different understanding levels ie 5th grade level,high school level ,college level and University level 
 
 ## 🎯 Objective
 The objective of this project is to build a simple AI-based application that explains user questions based on the selected difficulty level (e.g., 5th grade).
@@ -20,5 +20,6 @@ The objective of this project is to build a simple AI-based application that exp
 
 ## 🚀 How to Run the Project
 ```bash
+pip install streamlit
 pip install -r requirements.txt
-streamlit run mindpal.py
+python -m streamlit run mindpal.py
